@@ -54,11 +54,5 @@ Sonuçların nasıl görüneceğine dair bir örnek:
 
 Bu betik, bulduğu tüm NFS paylaşımlarını, onların okuma/yazma izinleriyle birlikte listeler ve dizin içeriklerini de gösterir.
 
-## Katkıda Bulunma
 
-Eğer projeye katkı sağlamak isterseniz, lütfen bir Pull Request gönderin. Her türlü katkı çok değerli!
-
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır.
 
